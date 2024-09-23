@@ -1,3 +1,4 @@
+package exercicios2;
 import javax.swing.JOptionPane;
 
 public class Ex2 {
