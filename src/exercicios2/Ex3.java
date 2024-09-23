@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Ex3 {
     public static void main(String[] args) {
+        //alunos Felipe e Gabriel Machado
         final int BITS_POR_BYTE = 8;
         long numBits;
 

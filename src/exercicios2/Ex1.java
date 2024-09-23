@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class Ex1 {
     public static void main(String[] args) {
+        //alunos Felipe e Gabriel Machado
+
         Scanner ler = new Scanner(System.in);
 
         System.out.print("Digite o primeiro número: ");

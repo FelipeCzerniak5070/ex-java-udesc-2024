@@ -3,6 +3,7 @@ import javax.swing.JOptionPane;
 
 public class Ex2 {
     public static void main(String[] args) {
+        //alunos Felipe e Gabriel Machado
         String num1Str = JOptionPane.showInputDialog("Digite o primeiro número:");
         String num2Str = JOptionPane.showInputDialog("Digite o segundo número:");
 
